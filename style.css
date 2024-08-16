@@ -1,6 +1,6 @@
 body {
     color: white;
-    background:  rgb(62, 62, 179);
+    background:  radial-gradient(blue ,rgb(248, 248, 154));
     margin: 0px;
     margin-bottom: 100px;
 }
@@ -11,7 +11,7 @@ header{border-bottom: solid 1px;
 }
 
 .chamada{
-background: blue;
+background: black;
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
