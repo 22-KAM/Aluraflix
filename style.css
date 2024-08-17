@@ -45,9 +45,13 @@ p {
     margin-top: 50px;
 }
 
+img{
+    height: 200px
+}
+
 .categoria-videos img {
     opacity: 0.5;
-    height: 200px;
+    
 }
 
 .categoria-videos img:hover {
